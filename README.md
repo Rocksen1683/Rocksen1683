@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ekanshh!</h1>
+<h1 align="center">Hi 👋, I'm Ekanshh Praveen!</h1>
 <h3 align="center">A passionate Software Engineer from Waterloo, ON</h3>
 
 - 🔭 I’m currently working on **building a language-learning Android app that uses Computer Vision**
@@ -7,7 +7,7 @@
 
 - 📝 Check out my LinkedIn at [https://www.linkedin.com/in/ekanshh-praveen/](https://www.linkedin.com/in/ekanshh-praveen/)
 
-- 💬 Ask me about **ETL with Python, Back-end Development, Android**
+- 💬 Ask me about **ETL with Python, Back-end Development, Android Development**
 
 - 📫 How to reach me **edpravee@uwaterloo.ca**
 
