@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **building a language-learning Android app that uses Computer Vision**
 
-- 🌱 I’m currently learning **Kotlin, ML Infrastructure with PyTorch, GoLang**
+- 🌱 I’m currently learning **ML Infrastructure with PyTorch, GoLang, Neural Networks**
 
 - 📝 Check out my LinkedIn at [https://www.linkedin.com/in/ekanshh-praveen/](https://www.linkedin.com/in/ekanshh-praveen/)
 
-- 💬 Ask me about **ETL with Python, Back-end Development, Android Development**
+- 💬 Ask me about **Data Science, AWS SageMaker, ETL with Python, Back-end Development**
 
 - 📫 How to reach me **edpravee@uwaterloo.ca**
 
