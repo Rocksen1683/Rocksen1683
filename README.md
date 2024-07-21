@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **edpravee@uwaterloo.ca**
 
-- 📄 Know about my experiences [Resume](https://reviewkit.me/review/BRyEXTJ9ynZ)
+- 📄 Know about my experiences: [Website](https://ek-praveen.netlify.app/)
 
 - ⚡ Fun fact **I have visited 15+ countries and have lived in 6 different cities**
 
